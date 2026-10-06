@@ -96,8 +96,6 @@ README 里没有写的内容，请明确说「README 里没有写」，不要猜
 
 对方有不清楚的地方，继续问那个 Agent 就行。
 
-一份较大的方案也可以这样处理。例如：[安琪纽特儿童奶粉产品提案 v2](./proposals/angel-nutritech-kids-milk-v2/README.md)。发给对方时只发该页面链接，不必传原 Word。
-
 ## 给阅读本 README 的 Agent
 
 如果你是 Agent，正在阅读这份 README：
